@@ -31,4 +31,38 @@ body{
 .btn-outline-light{
     margin-left: 20px;
 }
+#overview{
+    height: 90vh;
+}
+.overview-icon{
+    font-size: 4rem;
+    color: #5a34fc;
+    padding: 1rem 0;
+}
+.overview-row{
+    margin-top: 10rem;
+}
+.info-width{
+    width: 60%;
+    font-size: 1.6rem;
+    padding: 1rem 0;
+}
+.overview-header{
+    font-weight: 900;
+    padding: 1rem 0;
+}
+#testimonial{
+    background-color: #5a34fc;
+    margin-top: 100px;
+    padding: 100px 0;
+}
+.carousel-item{
+    padding: 7% 7%;
+}
+.carousel-control-next-icon , .carousel-control-next-icon{
+    color: white;
+}
+#myCarousel{
+    color: white;
+}
 
